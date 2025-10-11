@@ -1,1 +1,1 @@
-# Programacao_em_Phyton_Senai.
+# Programacao_em_Python_Senai.
